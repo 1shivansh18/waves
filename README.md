@@ -3,6 +3,15 @@
 This project is a simple web-based visualization of **Waves**, created using **React.js** and **Tailwind CSS**.  
 It is designed for **10th standard students** to easily understand the basic concepts of waves in physics.
 
+I first visited the QuazarEdu platform
+ and explored their Kinematics in 1D module to understand their approach. Based on that, I designed a simple, colorful, and responsive module that follows the same idea but focuses on waves.
+
+---
+
+Live Demo
+
+Access the interactive module online: https://s3-waves.netlify.app
+
 ---
 
 ## 📖 What Are Waves?
